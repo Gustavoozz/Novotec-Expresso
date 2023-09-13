@@ -1,0 +1,17 @@
+1 - Qual o custo de fazer um projeto desse? É possível ter de forma gratuita?
+ 
+	Os preços que giram em volta da instalação e dos serviços de Wi-Fi podem variar de acordo com a operaodra que fornece o produton e do pacote desejado pelo cliente, que pode abranger diversos fatores que influenciam diretamente o fator preço, como alcance e velocidade. 
+	Em uma residencia comum um pacote de Wi-Fi de 100 Megas custa, em média, 70 reais e um plano de 300 Megas pode custar até 130 reais, incluindo a instalação e cabeamento. Já para empresas, os planos de Wi-Fi podem custar um pouco mais podendo chegar ao valor de 300 reais mensais por um plano de 1 Giga. 
+
+
+2 - Como eu posso empreender/ganhar dinheiro com esse projeto? Fale sobre 3 Exemplos práticos.
+	
+	O Wi-Fi, em um panorama geral, pode incorporar diversos temas em áreas distintias. Se você possui o desejo de trabalhar diretamente ligado a rede Wi-Fi, alguamas das profissões mais famosas e bem remuneradas atreladas a esse tema são: Engenheiro de Redes sem Fio (Wireless Network Engineer), Especialista em Segurança de Redes Wi-Fi (Wi-Fi Network Security Specialist) e Desenvolvedor de Aplicativos Móveis (Mobile App Developer) para Wi-Fi. 
+	No quesito empreender, há uma gama de caminhos que voce pode seguir para tentar estabelecer sua própria empresa. Os mais comum seria abrir uma empresa de redes Wi-Fi semelhante a outras operadoras, como: Oi, Vivo e Claro.
+
+
+3 - Para trabalhar nessa área, quanto eu ganho, qual a formação, quais as certificações que garantem o conhecimento?
+
+	O salario pode variar de acordo com a função exercida pelo profissional, porém um Administrador de Redes Wi-Fi pode ganhar algo entre R$4000,00 a R$8000,00. Já um Engenheiro de Redes Wi-Fi pode chegar ao salário de até R$15.000,00 por mês no Brasil, países como EUA chegam a oferecer uma média salarial de até U$ 60.000,00.
+	As formações recomendadas para este trabalho são: Curso Técnico em Redes de Computadores, Graduação em Ciência da Computação ou Engenharia de Redes, entre outras especializações.
+	Certificações populares incluem CompTIA Network+, Cisco CCNA, CCNP, e certificações de outros fornecedores como Juniper, Microsoft e VMware.
