@@ -17,7 +17,7 @@
 	Certificações populares incluem CompTIA Network+, Cisco CCNA, CCNP, e certificações de outros fornecedores como Juniper, Microsoft e VMware.
 
 
-Questões ( ideias apenas zé ):
+Questões pra sala( ideias apenas zé ):
 
 1 - Como ocorre a transmissão de dados em uma rede Wi-Fi?
 2 - Quais são as frequências utilizadas pelo Wi-Fi e como elas afetam o desempenho da rede?
