@@ -15,3 +15,14 @@
 	O salario pode variar de acordo com a função exercida pelo profissional, porém um Administrador de Redes Wi-Fi pode ganhar algo entre R$4000,00 a R$8000,00. Já um Engenheiro de Redes Wi-Fi pode chegar ao salário de até R$15.000,00 por mês no Brasil, países como EUA chegam a oferecer uma média salarial de até U$ 60.000,00.
 	As formações recomendadas para este trabalho são: Curso Técnico em Redes de Computadores, Graduação em Ciência da Computação ou Engenharia de Redes, entre outras especializações.
 	Certificações populares incluem CompTIA Network+, Cisco CCNA, CCNP, e certificações de outros fornecedores como Juniper, Microsoft e VMware.
+
+
+Questões ( ideias apenas zé ):
+
+1 - Como ocorre a transmissão de dados em uma rede Wi-Fi?
+2 - Quais são as frequências utilizadas pelo Wi-Fi e como elas afetam o desempenho da rede?
+3 - Qual é a diferença entre uma rede Wi-Fi de 2,4 GHz e uma rede de 5 GHz?
+4 - Quais são os componentes essenciais de uma rede Wi-Fi?
+5 - O que é um roteador Wi-Fi e qual é o seu papel em uma rede sem fio?
+6 - Quais são os principais fatores que podem interferir na qualidade do sinal Wi-Fi em uma casa ou escritório?
+7 - Quais são as medidas de segurança importantes para proteger uma rede Wi-Fi contra acessos não autorizados?
