@@ -1,2 +1,2 @@
 # Novotec-Expresso
-Repositório dedicado ao novotec.
+Repositório dedicado ao NovoTec.
