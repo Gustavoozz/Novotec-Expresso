@@ -1,0 +1,121 @@
+/* Import de fontes: */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Reset de CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 200px;
+}
+
+header {
+    height: 200px;
+    background-color: rgb(36, 32, 32);
+}
+
+/* Navbar: */
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+
+    /* border: 1px solid green; */
+}
+
+.navbar a {
+    font-weight: 600;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+
+    font-family: Poppins;
+}
+
+.navbar a:hover {
+    opacity: .9;
+    transition: 0.5s;
+    transform: scale(0.9);
+}
+
+.navbar a:active {
+    color: lightgrey;
+}
+
+
+body {
+    background-color: black;
+}
+
+.card-sneakers img {
+    width: 300px;
+    height: 280px;
+    margin-top: 30px;
+    margin-left: 70px;
+
+    align-items: center;
+}
+
+.card-sneakers h3 {
+    width: 150px;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.card-sneakers p {
+    font-family: Poppins;
+    color: white;
+    font-size: 11px;
+    margin-left: 160px;
+
+    justify-content: center;
+    text-align: center;
+
+}
+
+.card-sneakers {
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 350px;
+    height: 580px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.sale {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 70px;
+}
+
+/* Buy Button */
+.buy {
+    text-decoration: none;
+    font-size: 18px;
+    color: #B51D44;
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.buy a:hover {
+    opacity: .9;
+    transition: 0.5s;
+    transform: scale(0.9);
+}
+
+.buy a:active {
+    color: lightgrey;
+}
+
+
+
