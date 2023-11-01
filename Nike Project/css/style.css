@@ -10,11 +10,11 @@
 
 .navbar img {
     width: 150px;
-    margin-right: 350px;
+    margin-right: 380px;
 }
 
 header {
-    height: 200px;
+    height: 130px;
     background-color: rgb(255, 255, 255);
 }
 
@@ -103,7 +103,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    margin-top: 70px;
+    margin-top: 50px;
     margin-bottom: 70px;
 }
 
@@ -153,12 +153,25 @@ body {
     background-repeat: no-repeat;
 }
 
-.banner h1 {
+.success {
     font-family: Poppins;
-    font-size: 120px;
+    font-size: 50px;
     text-shadow: 0 0 7px #838383;
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: bold;
+
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Footer: */
+footer {
+    background-color: black;
+    font-family: Poppins;
+    color: white;
+
+    text-align: center;
+    height: 50px;
 }
 
 
